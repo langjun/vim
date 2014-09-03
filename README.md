@@ -1,4 +1,4 @@
-myvim
+vim
 =====
 
 My Vim conf &amp; plugins
