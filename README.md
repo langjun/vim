@@ -1,8 +1,11 @@
-在这里备份vim常用的配置及插件
+This is my vimrc backup
 ===
-> 插架包括
-> - vundle
-> - powerline
-> - molokai
-> - nerdtree
-> - tagbar
+
+- Plugins
+	- vundle
+	- powerline
+	- molokai
+	- nerdtree
+	- tagbar
+
+- KeyMap
