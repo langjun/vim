@@ -9,6 +9,11 @@ set ts=4
 set backspace=2
 set fileencodings=utf-8
 set t_Co=256
+set autoindent
+set smartindent
+set showmatch
+" set list
+" set listchars=tab:>—,trail:-,space:·
 
 "key map
 map <F12> <ESC>:tabn<CR>
